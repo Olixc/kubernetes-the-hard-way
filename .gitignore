@@ -49,3 +49,8 @@ service-account.pem
 service-account-csr.json
 *.swp
 .idea/
+
+# Personal learning files*
+personal
+k8s-from-scratch
+machines.txt
